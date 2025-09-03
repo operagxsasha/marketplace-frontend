@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install [Vite](https://vitejs.dev/) - with Homebrew:
+Install [Vite](https://vitejs.dev/) - [with Homebrew](https://brew.sh):
 
 ```
 brew install vite
